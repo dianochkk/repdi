@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2cc65f1-82ae-4920-8b30-ced0d273bb9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/bot/src/main/java/bayrasplusdianalove/cl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot/src/main/java/bayrasplusdianalove/errsl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bot/src/main/java/ru/tinkoff/edu/java/bot/BotController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link-parser/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapper/src/main/java/bayrasplusdianahate/AddLinkRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapper/src/main/java/bayrasplusdianahate/ApiErrorResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapper/src/main/java/bayrasplusdianahate/LinkResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapper/src/main/java/bayrasplusdianahate/ListLinksResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapper/src/main/java/bayrasplusdianahate/RemoveLinkRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scrapper/src/main/java/ru/tinkoff/edu/java/scrapper/ScrapperControls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/bot/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/link-parser/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/link-parser/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scrapper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scrapper/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Record" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NKNSqSEQZWOyyK6HQNDZXoKErf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/79640/Documents/GitHub/repdi/link-parser/src/main",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.tinkoff.edu.java.scrapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\79640\Documents\GitHub\repdi\link-parser\src\main" />
+      <recent name="C:\Users\79640\Documents\GitHub\repdi\link-parser" />
+      <recent name="C:\Users\79640\Documents\GitHub\repdi\scrapper" />
+      <recent name="C:\Users\79640\Documents\GitHub\repdi\bot\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ScrapperApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScrapperApplication" />
+      <module name="scrapper" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="repdi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="repdi" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScrapperApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2cc65f1-82ae-4920-8b30-ced0d273bb9b" name="Changes" comment="" />
+      <created>1679408819640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679408819640</updated>
+    </task>
+    <servers />
+  </component>
+</project>
