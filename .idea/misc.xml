@@ -1,4 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< Updated upstream
+=======
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/bot/pom.xml" />
+        <option value="$PROJECT_DIR$/link-parser/pom.xml" />
+        <option value="$PROJECT_DIR$/scrapper/pom.xml" />
+      </set>
+    </option>
+  </component>
+>>>>>>> Stashed changes
   <component name="ProjectRootManager" version="2" default="true" />
 </project>
