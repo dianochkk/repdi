@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ru.tinkoff.edu.java.scrapper.tests.integration.IntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.157 s <<< FAILURE! - in ru.tinkoff.edu.java.scrapper.tests.integration.IntegrationTest
+test  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+Caused by: java.lang.IllegalStateException: Could not find a valid Docker environment. Please see logs and check configuration
+

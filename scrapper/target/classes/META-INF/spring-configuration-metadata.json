@@ -1,0 +1,49 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "ru.tinkoff.edu.java.scrapper.configuration.ApplicationConfig",
+      "sourceType": "ru.tinkoff.edu.java.scrapper.ScrapperApplication",
+      "sourceMethod": "applicationConfig()"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.database-access-type",
+      "type": "ru.tinkoff.edu.java.scrapper.configuration.access.enums.AccessType",
+      "sourceType": "ru.tinkoff.edu.java.scrapper.configuration.ApplicationConfig"
+    },
+    {
+      "name": "app.exchange-name",
+      "type": "java.lang.String",
+      "sourceType": "ru.tinkoff.edu.java.scrapper.configuration.ApplicationConfig"
+    },
+    {
+      "name": "app.queue-name",
+      "type": "java.lang.String",
+      "sourceType": "ru.tinkoff.edu.java.scrapper.configuration.ApplicationConfig"
+    },
+    {
+      "name": "app.scheduler",
+      "type": "ru.tinkoff.edu.java.scrapper.configuration.sheduler.Scheduler",
+      "sourceType": "ru.tinkoff.edu.java.scrapper.configuration.ApplicationConfig"
+    },
+    {
+      "name": "app.test",
+      "type": "java.lang.String",
+      "sourceType": "ru.tinkoff.edu.java.scrapper.configuration.ApplicationConfig"
+    },
+    {
+      "name": "app.update-interval",
+      "type": "java.lang.Integer",
+      "sourceType": "ru.tinkoff.edu.java.scrapper.configuration.ApplicationConfig"
+    },
+    {
+      "name": "app.use-queue",
+      "type": "java.lang.Boolean",
+      "sourceType": "ru.tinkoff.edu.java.scrapper.configuration.ApplicationConfig",
+      "defaultValue": false
+    }
+  ],
+  "hints": []
+}

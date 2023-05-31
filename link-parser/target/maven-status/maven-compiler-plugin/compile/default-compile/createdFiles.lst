@@ -1,0 +1,5 @@
+ru\tinkoff\edu\java\parser\records\StackOverflowRecord.class
+ru\tinkoff\edu\java\parser\parsers\AbstractLinkParser.class
+ru\tinkoff\edu\java\parser\parsers\GitHubLinkParser.class
+ru\tinkoff\edu\java\parser\parsers\StackOverflowLinkParser.class
+ru\tinkoff\edu\java\parser\records\GitHubRecord.class

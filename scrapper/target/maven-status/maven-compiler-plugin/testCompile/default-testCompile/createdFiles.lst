@@ -1,0 +1,5 @@
+ru\tinkoff\edu\java\scrapper\abstracts\IntegrationEnvironment.class
+ru\tinkoff\edu\java\scrapper\tests\repository\Entity\ChatLinkEntityTest.class
+ru\tinkoff\edu\java\scrapper\tests\repository\LinkRepositoryTest.class
+ru\tinkoff\edu\java\scrapper\tests\integration\IntegrationTest.class
+ru\tinkoff\edu\java\scrapper\tests\repository\Entity\TgEntityTest.class
